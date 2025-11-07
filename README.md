@@ -3,11 +3,11 @@
 
 Load the project into ghci and call the reverse function like this:
 ```console
-> reverseWord [String input]
+> reverseWords [String input]
 ```
 Example usage:
 ```console
-> reverseWord "hello world"
+> reverseWords "hello world"
 > "world hello"
 ```
 
